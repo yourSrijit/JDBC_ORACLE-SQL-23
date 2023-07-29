@@ -18,8 +18,8 @@ public class dbconnection {
 	 * DRIVERNAME="com.mysql.jdbc.Driver";
 	 * URL = "jdbc:mysql://localhost:3306/database_name"
 	 */
-	private static final String PASSWORD ="system";
-	private static final String USERNAME ="system";
+	private static final String PASSWORD ="********";
+	private static final String USERNAME ="********";
 	public static Connection getConnection() {
 		Connection con = null;
 		try {
