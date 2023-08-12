@@ -1,7 +1,4 @@
 package JDBC;
-
-
-
 public class emp {
 	private int id;
 	private String name;
@@ -33,6 +30,4 @@ public class emp {
 	public emp()
 	{}
 	
-
 }
-
